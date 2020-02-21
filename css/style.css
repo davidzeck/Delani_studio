@@ -38,3 +38,9 @@ body {
     align-items: center;
 
 }
+.contact{
+  background: url(../image/assets/backgrounds/c_image.jpg);
+  height: 800px;
+  background-size: contain;
+
+}
