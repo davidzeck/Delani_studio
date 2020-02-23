@@ -118,4 +118,8 @@ body {
 ::placeholder{
   color: #f1f1f1;
 }
+.container h1{
+  text-align: center;
+  color:white;
+}
 
