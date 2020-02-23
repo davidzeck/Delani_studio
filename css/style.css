@@ -59,7 +59,7 @@ body {
 }
 .servicess{
   text-align: center;
-  margin-top: 200px;
+  margin-top: 120px;
   color:white;
 
 }
@@ -121,5 +121,11 @@ body {
 .container h1{
   text-align: center;
   color:white;
+}
+.click{
+  margin-top: 100px;
+}
+.sites{
+  margin-right: ;
 }
 
