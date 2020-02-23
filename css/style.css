@@ -115,4 +115,7 @@ body {
   background: none;
   
 }
+::placeholder{
+  color: #f1f1f1;
+}
 
