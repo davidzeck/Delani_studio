@@ -9,19 +9,25 @@ body {
 
 .container {
   position: relative;
-  max-width: 800px;
+  width: 100%;
   margin: 0 auto;
+}
+.container-fluid{
+  padding-left:0px;
+  padding-right:0px;
 }
 
 .container img {margin-top: 300px;}
 
-.content  {
+.introduction  {
   position: absolute;
  
   color: #f1f1f1;
   width: 100%;
   padding: 20px;
   text-align: center;
+  
+
 }
 .head{
     background: url(../image/assets/backgrounds/h_img.jpg);
@@ -45,4 +51,9 @@ body {
   background-size: contain;
 
 }
+.aboutus{
+  max-width: 960px;
+  margin:0 auto;
+}
+
 
