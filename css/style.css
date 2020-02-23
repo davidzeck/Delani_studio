@@ -26,8 +26,7 @@ body {
   width: 100%;
   padding: 20px;
   text-align: center;
-  
-
+  margin-top: 0px;
 }
 .head{
     background: url(../image/assets/backgrounds/h_img.jpg);
@@ -35,12 +34,13 @@ body {
     height: 700px;
     text-align: center;
     
+    
 }
 .rada{
     background: url(../image/assets/backgrounds/s_image.jpg);
     background-size: cover;
     height: 450px;
-    width: 1500px;
+    width: 100%;
     padding-inline: 100px;
     align-items: center;
 
@@ -53,6 +53,19 @@ body {
 }
 .aboutus{
   max-width: 960px;
+  margin:0 auto;
+  text-align:center;
+}
+.servicess{
+  text-align: center;
+  margin-top: 200px;
+  color:white;
+
+}
+.logos{
+  margin-top: 250px;
+}
+.delta{
   margin:0 auto;
 }
 
