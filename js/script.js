@@ -1,14 +1,20 @@
 $(document).ready(function(){
+
+    $(".text-one").hide();
+    $(".text-two").hide();
+    $(".text-three").hide();
+
+
     $(".icon-one").click(function(){
         $(".icon-one").hide();
         $(".text-one").show();
     });
+    
     $(".text-one").click(function(){
         $(".text-one").hide();
         $(".icon-one").show();
     });
-});
-$(document).ready(function(){
+
     $(".icon-two").click(function(){
         $(".icon-two").hide();
         $(".text-two").show();
@@ -17,8 +23,7 @@ $(document).ready(function(){
         $(".text-two").hide();
         $(".icon-two").show();
     });
-});
-$(document).ready(function(){
+
     $(".icon-three").click(function(){
         $(".icon-three").hide();
         $(".text-three").show();
