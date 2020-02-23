@@ -49,6 +49,7 @@ body {
   background: url(../image/assets/backgrounds/c_image.jpg);
   height: 800px;
   background-size: contain;
+  padding-top: 90px;
 
 }
 .aboutus{
@@ -68,5 +69,50 @@ body {
 .delta{
   margin:0 auto;
 }
+.iconss{
+  width: 100%;
+}
+.icns{
+  margin-bottom: 100px;
+}
+.icns img{
+  width:23%;
+  margin-bottom: 5px;
+}
+.col-md-6{
+  width:50%;
+  float: left;
+}
+.container row{
+  width:100%;
 
+}
+.contact .container{
+  margin-top: 90px;
+}
+.form-inputs{
+  margin-top: 20px;
+  
+}
+.contact input{
+  width:100%;
+}
+.contact textarea{
+  width:100%;
+  height:250px;
+}
+.txa{
+  margin:0 auto;
+  width:960px;
+  margin-top: 50px;
+  background:none;
+}
+.form-inputs input{
+  background: none;
+  color: #f1f1f1;
+}
+.txa textarea{
+  background: none;
+  
+}
 
