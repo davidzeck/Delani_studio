@@ -1,3 +1,3 @@
 ##MY PROJECT##
 Delani studio
-This project is about a studio 
+This project is about a the Delani studio 
