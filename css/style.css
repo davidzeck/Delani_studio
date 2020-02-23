@@ -26,7 +26,7 @@ body {
 .head{
     background: url(../image/assets/backgrounds/h_img.jpg);
     background-size: cover;
-    height: 800px;
+    height: 700px;
     text-align: center;
     
 }
@@ -45,3 +45,4 @@ body {
   background-size: contain;
 
 }
+
