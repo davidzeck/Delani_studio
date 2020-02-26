@@ -189,3 +189,6 @@ body {
 .clr{
   clear:both;
 }
+.pp{
+  background-image: url(image);
+}
